@@ -39,3 +39,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+npm install @reduxjs/toolkit react-redux mui/material cookies-next
